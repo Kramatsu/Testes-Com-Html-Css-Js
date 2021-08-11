@@ -1,0 +1,64 @@
+body {
+    background-color: black;
+}
+
+input {
+    color: white;
+    border: hidden;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 1.3rem;
+    width: 210px;
+    height: 35px;
+    background-color: gray;
+}
+
+button {
+    border: hidden;
+    font-size: 1.2rem;
+    text-align: center;
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    transition-duration: 0.2s;
+}
+
+.tela {
+    margin-left: 44.5%;
+    position: absolute;
+    top: 13%;
+}
+
+.linha {
+    display: inline-block;
+    margin-left: 45%;
+    margin-top: 10%;
+}
+
+.linha2 {
+    display: inline-block;
+    margin-left: 45%;
+    margin-top: 1%;
+}
+
+.linha3 {
+    display: inline-block;
+    margin-left: 45%;
+    margin-top: 1%;
+}
+
+.linha4 {
+    display: inline-block;
+    margin-left: 45%;
+    margin-top: 1%;
+}
+
+.linha5 {
+    display: inline-block;
+    margin-left: 45%;
+    margin-top: 1%;
+}
+
+button:hover {
+    font-size: 1rem;
+}
